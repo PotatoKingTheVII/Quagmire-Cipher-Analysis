@@ -10,7 +10,7 @@ User inputs found within file to be edited.
 ~~what the hell's a make file~~ Depends on https://github.com/martinus/robin-hood-hashing and tested on C++20 MSVC 19. Used as:
 > quagmire1_hill.exe -n vig_key_length -c ciphertext 
 
- Note that both
+
 
 ## Quadgrams
 All require quadgrams.txt which can be found at http://practicalcryptography.com/cryptanalysis/text-characterisation/quadgrams/
