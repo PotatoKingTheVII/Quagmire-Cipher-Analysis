@@ -174,7 +174,7 @@ int main(int argc, char* argv[])
                 break;
 
             case 'n':   //Set keylength
-                vig_keylength = (int)*(argv[i + 1]) - 48;
+                vig_keylength = stoi(argv[i + 1]);
                 break;
 
             default:
